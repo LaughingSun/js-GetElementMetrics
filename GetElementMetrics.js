@@ -29,7 +29,7 @@
   root.GetElementMetrics = GetElementMetrics;
   
   function GetElementMetrics (element) {
-    var bounding = element.getBoundingClientRect()
+    var bounding = (element || (element = this)).getBoundingClientRect()
       , cstyle = root.getComputedStyle(element)
       . sizing = cstyle.getPropertyValue('box-sizing')
       , margin = {
