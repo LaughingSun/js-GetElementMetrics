@@ -1,8 +1,8 @@
-/*  CreateExamplePage.js
+/* GetElementMetrics.js
  *  
  *  The MIT License (MIT) - https://opensource.org/licenses/MIT
  *  
- *  Copyright (c) 2015 "Erich Horn"<erichhorn78,gmail.com> 
+ *  Copyright (c) 2015 "Erich Horn"<https://github.com/LaughingSun/js-GetElementMetrics> 
  *  
  *  Permission is hereby granted, free of charge, to any person obtaining a copy
  *  of this software and associated documentation files (the "Software"), to deal
