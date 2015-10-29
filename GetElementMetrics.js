@@ -1,6 +1,6 @@
 /*  CreateExamplePage.js
  *  
- *  The MIT License (MIT)
+ *  The MIT License (MIT) - https://opensource.org/licenses/MIT
  *  
  *  Copyright (c) 2015 "Erich Horn"<erichhorn78,gmail.com> 
  *  
@@ -25,7 +25,7 @@
  
 "use strict";
 
-(function (root)) {
+(function (root) {
   root.GetElementMetrics = GetElementMetrics;
   
   function GetElementMetrics (element) {
